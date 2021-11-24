@@ -1,0 +1,18 @@
+header{
+right: 0;
+left: 0;
+top: 0;
+background-color: #1F2937;
+color: white;
+display: flex;
+position: fixed;
+flex-direction: row;
+justify-content: space-between;
+}
+
+header ul a{
+color: white;
+display: flex;
+flex-direction:row;
+text-decoration: none;
+}
